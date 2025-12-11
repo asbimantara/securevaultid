@@ -7,7 +7,7 @@
 ![Dart](https://img.shields.io/badge/Dart-3.9.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-**Aplikasi Password Manager yang Aman dengan Autentikasi Biometrik**
+**Aplikasi Password Manager yang Aman dan Terpercaya**
 
 [📥 Download APK](https://drive.google.com/file/d/1Uu5vsXhvJnYsLyk3Zhvpm_69rmDyf1MU/view?usp=drive_link) • [📖 Dokumentasi](#fitur-fitur) • [🛠️ Instalasi](#instalasi)
 
