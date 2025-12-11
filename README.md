@@ -31,7 +31,7 @@
 
 ## 🎯 Tentang Aplikasi
 
-**Secure Vault ID** adalah aplikasi manajemen password yang aman dan mudah digunakan untuk menyimpan, mengelola, dan melindungi semua kredensial akun Anda. Aplikasi ini dirancang dengan fokus pada keamanan data pengguna dengan enkripsi tingkat tinggi dan autentikasi biometrik.
+**Secure Vault ID** adalah aplikasi manajemen password yang aman dan mudah digunakan untuk menyimpan, mengelola, dan melindungi semua kredensial akun Anda.
 
 ### ✨ Keunggulan
 
