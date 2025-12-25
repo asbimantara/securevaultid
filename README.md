@@ -35,7 +35,7 @@
 
 ### ✨ Keunggulan
 
-- 🔒 **Keamanan Tingkat Tinggi**: Enkripsi AES-256 untuk melindungi semua data password
+- 🔒 **Keamanan Tingkat Tinggi**: Enkripsi AES untuk melindungi semua data password
 - 📊 **Dashboard Interaktif**: Statistik dan analitik password yang komprehensif
 - 🎨 **UI Modern**: Desain Material Design 3 yang intuitif dan menarik
 - 🌙 **Dark Mode**: Tema gelap untuk kenyamanan mata
@@ -49,7 +49,6 @@
 ### 🔐 Autentikasi & Keamanan
 
 - **PIN Authentication**: Sistem PIN 6 digit untuk akses aplikasi
-- **Auto-Logout**: Logout otomatis setelah periode tidak aktif
 - **Emergency Access**: Mode darurat dengan akses terbatas
 - **Activity Log**: Pencatatan semua aktivitas pengguna
 
@@ -60,14 +59,12 @@
 - **Password Strength Checker**: Analisis kekuatan password secara real-time
 - **Password Health Check**: Pemeriksaan kesehatan semua password
 - **Password History**: Riwayat perubahan password
-- **Bulk Operations**: Operasi massal pada beberapa password sekaligus
 
 ### 📂 Kategori & Organisasi
 
 - **Category Management**: Buat dan kelola kategori untuk mengorganisir password
 - **Custom Icons & Colors**: Personalisasi kategori dengan ikon dan warna
 - **Category Statistics**: Statistik password per kategori
-- **Tag System**: Sistem tag untuk organisasi yang lebih fleksibel
 
 ### 📊 Analytics & Statistik
 
