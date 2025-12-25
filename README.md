@@ -9,7 +9,7 @@
 
 **Aplikasi Password Manager yang Aman dan Terpercaya**
 
-[📥 Download APK](https://drive.google.com/file/d/1Uu5vsXhvJnYsLyk3Zhvpm_69rmDyf1MU/view?usp=drive_link) • [📖 Dokumentasi](#fitur-fitur) • [🛠️ Instalasi](#instalasi)
+[📥 Download APK](https://github.com/asbimantara/securevaultid/releases/download/v1.0.0/app-release.apk) • [📖 Dokumentasi](#fitur-fitur) • [🛠️ Instalasi](#instalasi)
 
 </div>
 
@@ -171,7 +171,7 @@
 ### Opsi 1: Download APK (Paling Mudah)
 
 1. **Download APK** dari link berikut:
-   [📥 Download Secure Vault ID APK](https://drive.google.com/file/d/1Uu5vsXhvJnYsLyk3Zhvpm_69rmDyf1MU/view?usp=drive_link)
+   [📥 Download Secure Vault ID APK](https://github.com/asbimantara/securevaultid/releases/download/v1.0.0/app-release.apk)
 
 2. **Aktifkan Install dari Sumber Tidak Dikenal**:
    - Buka **Settings** → **Security**
