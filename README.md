@@ -42,6 +42,22 @@
 - 📱 **Platform**: Mendukung Android
 - 💾 **Backup & Restore**: Ekspor dan impor data dengan enkripsi
 
+### 📸 Screenshot
+
+<div align="center">
+
+| Beranda | Add Password | List Password |
+|:-------:|:------------:|:------------:|
+| ![Beranda](screenshots/4.%20Beranda.jpg) | ![Add Password](screenshots/7.%20Add%20password.jpg) | ![List Password](screenshots/8.%20List%20password.jpg) |
+
+| Detail Password | Backup Data | Health Check |
+|:---------------:|:-----------:|:------------:|
+| ![Detail Password](screenshots/9.%20Detail%20password.jpg) | ![Backup](screenshots/17.%20Backup%20data.jpg) | ![Health Check](screenshots/20.%20Health%20check.jpg) |
+
+</div>
+
+> 📁 **Screenshot lengkap** tersedia di folder [`screenshots/`](screenshots/) (20 gambar)
+
 ---
 
 ## 🚀 Fitur-Fitur
